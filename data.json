@@ -6,6 +6,13 @@
       "category": "Visa",
       "description": "Fast track Pakistan visa processing for tourists and business.",
       "iconUrl": "https://example.com/visa_icon.png"
+    },
+    {
+      "id": "2",
+      "name": "Iran eVisa",
+      "category": "Visa",
+      "description": "Fast track iran visa processing for tourists and business.",
+      "iconUrl": "https://example.com/visa_icon.png"
     }
   ],
   "posts": [
@@ -13,6 +20,13 @@
       "id": "1",
       "title": "New Service Update",
       "content": "We now support Iran eVisa applications!",
+      "date": "Oct 24, 2023",
+      "imageUrl": "https://example.com/news.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Exit Exam",
+      "content": "Now you an apply for MOPH Exit Exam",
       "date": "Oct 24, 2023",
       "imageUrl": "https://example.com/news.jpg"
     }
