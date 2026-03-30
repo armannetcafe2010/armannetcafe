@@ -1,0 +1,20 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "name": "Pakistan eVisa",
+      "category": "Visa",
+      "description": "Fast track Pakistan visa processing for tourists and business.",
+      "iconUrl": "https://example.com/visa_icon.png"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "New Service Update",
+      "content": "We now support Iran eVisa applications!",
+      "date": "Oct 24, 2023",
+      "imageUrl": "https://example.com/news.jpg"
+    }
+  ]
+}
