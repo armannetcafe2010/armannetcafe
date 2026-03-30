@@ -17,16 +17,16 @@
     {
       "id": "3",
       "name": "DS-157 Form Assistance",
-      "category": "Services",
+      "category": "Immigration Services",
       "description": "We provide accurate and professional assistance in completing the DS-157 form, ensuring all information is filled out correctly.",
-      "iconUrl": "https://i.ibb.co/CKyRfXjP/iran-evisa.png"
+      "iconUrl": "https://i.ibb.co/qYyTTX0V/ds-157.jpg"
     },
      {
       "id": "4",
-      "name": "Pakistan eVisa",
-      "category": "Visa",
-      "description": "Fast track Pakistan visa processing for tourists and business.",
-      "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png"
+       "name": "DS-260 Immigrant Visa Application",
+       "category": "Immigration Services",
+       "description": "Professional assistance with completing and submitting the DS-260 immigrant visa form accurately and efficiently.",
+       "iconUrl": "https://i.ibb.co/cXt1VWqG/ds260.webp"
     },
     {
       "id": "5",
