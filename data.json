@@ -64,7 +64,6 @@
           "name": "Photo",
           "required": true
         }
-
       ]
     }
   ]
