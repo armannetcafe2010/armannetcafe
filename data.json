@@ -5,7 +5,13 @@
       "name": "Pakistan eVisa",
       "category": "Visa",
       "description": "Fast track Pakistan visa processing for tourists and business.",
-      "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png"
+      "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png",
+      "requirements": [
+        {
+          "name": "Photo",
+          "required": true
+        }
+      ]
     },
     {
       "id": "2",
