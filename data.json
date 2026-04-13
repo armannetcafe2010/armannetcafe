@@ -1,12 +1,7 @@
 {
   "services": [
-    {
-      "id": "1",
-      "name": "Pakistan eVisa",
-      "category": "Visa",
-      "description": "Fast track Pakistan visa processing for tourists and business.",
-      "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png"
-    },
+   {"id":"1","name":"Pakistan eVisa","category":"Visa","description":"Fast track Pakistan visa processing for tourists and business.","iconUrl":"https://i.ibb.co/Ng9LKhws/pakistan-evisa.png"
+   },
     {
       "id": "2",
       "name": "Iran eVisa",
