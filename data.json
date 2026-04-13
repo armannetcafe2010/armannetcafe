@@ -1,18 +1,67 @@
 {
   "services": [
+{
+  "id": "1",
+  "name": "Pakistan eVisa",
+  "category": "Visa",
+  "description": "Fast track Pakistan visa processing for tourists and business.",
+  "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png",
+
+  "visaTypes": [
     {
-      "id": "1",
-      "name": "Pakistan eVisa",
-      "category": "Visa",
-      "description": "Fast track Pakistan visa processing for tourists and business.",
-      "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png",
+      "id": "tourist",
+      "name": "Tourist Visa",
+      "duration": "6 Months",
+      "stay": "60 Days",
       "requirements": [
         {
+          "name": "Passport",
+          "required": true
+        },
+        {
           "name": "Photo",
+          "required": true
+        },
+        {
+          "name": "National Identity Card",
+          "required": true
+        },
+        {
+          "name": "Invitation Letter",
           "required": true
         }
       ]
     },
+    {
+      "id": "medical",
+      "name": "Medical Visa",
+      "duration": "3 Months",
+      "stay": "60 Days",
+      "requirements": [
+        {
+          "name": "Passport",
+          "required": true
+        },
+        {
+          "name": "Photo",
+          "required": true
+        },
+        {
+          "name": "Medical Reports",
+          "required": true
+        },
+        {
+          "name": "Hotel Booking",
+          "required": true
+        },
+        {
+          "name": "National Identity Card",
+          "required": true
+        }
+      ]
+    }
+  ]
+},
     {
       "id": "2",
       "name": "Iran eVisa",
