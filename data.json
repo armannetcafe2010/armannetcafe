@@ -43,20 +43,29 @@
       "iconUrl": "https://i.ibb.co/CKyRfXjP/iran-evisa.png"
     }
   ],
+  
   "posts": [
     {
       "id": "1",
       "title": "Create Your Apple ID",
       "content": "You can now easily create an Apple ID for your Apple devices and access all Apple services seamlessly.",
       "date": "Oct 24, 2023",
-      "imageUrl": "https://i.ibb.co/x88vcVsg/2fa-hero.webp"
+      "imageUrl": "https://i.ibb.co/x88vcVsg/2fa-hero.webp",
+      "requirements": []
     },
     {
       "id": "2",
       "title": "Exit Exam",
-      "content": "Now you an apply for MOPH Exit Exam",
+      "content": "Now you can apply for MOPH Exit Exam",
       "date": "Oct 24, 2025",
-      "imageUrl": "https://i.ibb.co/GvJw2yFY/nexa.webp"
+      "imageUrl": "https://i.ibb.co/GvJw2yFY/nexa.webp",
+      "requirements": [
+        {
+          "name": "Photo",
+          "required": true
+        }
+
+      ]
     }
   ]
 }
