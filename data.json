@@ -24,65 +24,7 @@
           "required": true
         }
       ]
-    },    
-    {
-      "id": "2",
-      "name": "Pakistan Medical eVisa",
-      "category": "Visa",
-      "description": "Fast track Pakistan visa processing for tourists and business.",
-      "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png",
-      "requirements": [
-        {
-          "name": "Passport",
-          "required": true
-        },
-        {
-          "name": "Photo",
-          "required": true
-        },
-        {
-          "name": "National Identity Card",
-          "required": true
-        },
-        {
-          "name": "Medical Reports",
-          "required": true
-        },
-        {
-          "name": "Hotel Booking",
-          "required": true
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "name": "DS-157 Form Assistance",
-      "category": "Immigration Services",
-      "description": "We provide accurate and professional assistance in completing the DS-157 form, ensuring all information is filled out correctly.",
-      "iconUrl": "https://i.ibb.co/qYyTTX0V/ds-157.jpg"
-    },
-     {
-      "id": "4",
-       "name": "DS-260 Immigrant Visa Application",
-       "category": "Immigration Services",
-       "description": "Professional assistance with completing and submitting the DS-260 immigrant visa form accurately and efficiently.",
-       "iconUrl": "https://i.ibb.co/cXt1VWqG/ds260.webp"
-    },
-    {
-      "id": "5",
-      "name": "Iran eVisa",
-      "category": "Visa",
-      "description": "Fast track iran visa processing for tourists and business.",
-      "iconUrl": "https://i.ibb.co/CKyRfXjP/iran-evisa.png"
-    },
-    {
-      "id": "6",
-      "name": "DS-157 Form Assistance",
-      "category": "Services",
-      "description": "We provide accurate and professional assistance in completing the DS-157 form, ensuring all information is filled out correctly.",
-      "iconUrl": "https://i.ibb.co/CKyRfXjP/iran-evisa.png"
-    }
-  ],
+    },   
 
 
 
