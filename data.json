@@ -2,7 +2,7 @@
   "services": [
     {
       "id": "1",
-      "name": "Pakistan eVisa",
+      "name": "Pakistan Tourist eVisa",
       "category": "Visa",
       "description": "Fast track Pakistan visa processing for tourists and business.",
       "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png",
@@ -27,10 +27,32 @@
     },    
     {
       "id": "2",
-      "name": "Iran eVisa",
+      "name": "Pakistan Medical eVisa",
       "category": "Visa",
-      "description": "Fast track iran visa processing for tourists and business.",
-      "iconUrl": "https://i.ibb.co/CKyRfXjP/iran-evisa.png"
+      "description": "Fast track Pakistan visa processing for tourists and business.",
+      "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png",
+      "requirements": [
+        {
+          "name": "Passport",
+          "required": true
+        },
+        {
+          "name": "Photo",
+          "required": true
+        },
+        {
+          "name": "National Identity Card",
+          "required": true
+        },
+        {
+          "name": "Medical Reports",
+          "required": true
+        },
+        {
+          "name": "Hotel Booking",
+          "required": true
+        }
+      ]
     },
     {
       "id": "3",
