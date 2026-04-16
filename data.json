@@ -68,10 +68,7 @@
       "requirements": [
         { "name": "Passport", "required": true },
         { "name": "National Identity Card", "required": true },
-        { "name": "HR Letter", "required": true },
-        { "name": "Recommendation Letter", "required": true },
-        { "name": "Family Tazkiras", "required": true },
-        { "name": "Marriage Certificate", "required": true },
+        { "name": "Fresh Photo", "required": true }
       ]
      }
   ],
