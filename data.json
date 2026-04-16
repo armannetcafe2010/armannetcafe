@@ -64,7 +64,7 @@
       "name": "Passport Registration",
       "category": "Other Services",
       "description": "We provide assistance with Afghanistan passport registration and application processing, including completing the required forms and submitting the application on your behalf. Our service ensures that all required information and documents are properly prepared and accurately entered to reduce delays, errors, or rejection. We help streamline the process for faster and more efficient passport issuance.",
-      "iconUrl": "",
+      "iconUrl": "https://i.ibb.co/KkSWNpL/Passport.webp",
       "requirements": [
         { "name": "Passport", "required": true },
         { "name": "National Identity Card", "required": true },
