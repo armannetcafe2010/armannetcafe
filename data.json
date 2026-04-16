@@ -36,7 +36,7 @@
       "requirements": [
         { "name": "Passport", "required": true },
         { "name": "National Identity Card", "required": true },
-        { "name": "HR Letter", "required": true }
+        { "name": "HR Letter", "required": true },
         { "name": "Recommendation", "required": true },
         { "name": "Parent Tazkiras", "required": true },
         { "name": "US Address", "required": true },
