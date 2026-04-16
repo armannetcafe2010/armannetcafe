@@ -7,72 +7,27 @@
       "description": "We assist with your Pakistan Tourist eVisa application by completing the required form on your behalf and guiding you through the payment process. The Tourist Visa is issued with a validity of 6 months and permits a stay of up to 60 days. This service ensures a simple, accurate, and efficient application process.",
       "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png",
       "requirements": [
-        {
-          "name": "Passport",
-          "required": true
-        },
-        {
-          "name": "Photo",
-          "required": true
-        },
-        {
-          "name": "National Identity Card",
-          "required": true
-        },
-        {
-          "name": "Invitation Letter",
-          "required": true
-        }
+        { "name": "Passport", "required": true },
+        { "name": "Photo", "required": true },
+        { "name": "National Identity Card", "required": true },
+        { "name": "Invitation Letter", "required": true }
       ]
-    }
-  ],
-  {
+    },
+    {
       "id": "2",
       "name": "Pakistan Medical eVisa",
       "category": "Visa",
       "description": "We assist with your Pakistan Medical eVisa application by completing the required form on your behalf and guiding you through the payment process. The Medical Visa is issued with a validity of 3 months and permits a stay of up to 60 days. This service ensures a simple, accurate, and efficient application process.",
       "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png",
       "requirements": [
-        {
-          "name": "Passport",
-          "required": true
-        },
-        {
-          "name": "Photo",
-          "required": true
-        },
-        {
-          "name": "National Identity Card",
-          "required": true
-        },
-        {
-          "name": "Medical Reports",
-          "required": true
-        },
-        {
-          "name": "Hotel Booking",
-          "required": true
-        }
+        { "name": "Passport", "required": true },
+        { "name": "Photo", "required": true },
+        { "name": "National Identity Card", "required": true },
+        { "name": "Medical Reports", "required": true },
+        { "name": "Hotel Booking", "required": true }
       ]
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  ],
 
 
 
@@ -93,10 +48,7 @@
       "date": "Oct 24, 2025",
       "imageUrl": "https://i.ibb.co/GvJw2yFY/nexa.webp",
       "requirements": [
-        {
-          "name": "Photo",
-          "required": true
-        }
+        { "name": "Photo", "required": true }
       ]
     }
   ]
