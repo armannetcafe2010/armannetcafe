@@ -56,7 +56,7 @@
         { "name": "HR Letter", "required": true },
         { "name": "Recommendation Letter", "required": true },
         { "name": "Family Tazkiras", "required": true },
-        { "name": "Marriage Certificate", "required": true },
+        { "name": "Marriage Certificate", "required": true }
       ]
      },
      {
