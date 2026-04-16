@@ -42,6 +42,20 @@
         { "name": "US Address", "required": true },
         { "name": "Marriage Certificate", "required": true }
       ]
+     },
+     {
+      "id": "4",
+      "name": "DS-157",
+      "category": "Immigrant Visa Form",
+      "description": "We assist with the completion and submission of your DS-260 Immigrant Visa Application form. Our service ensures that all required information is accurately entered, reducing the risk of errors or delays in your application process. The DS-260 is a crucial step for individuals applying for a U.S. immigrant visa, and we guide you through each section to make the process simple, secure, and efficient.",
+      "iconUrl": "https://i.ibb.co/RFX1tR3/ds260.webp",
+      "requirements": [
+        { "name": "Passport", "required": true },
+        { "name": "National Identity Card", "required": true },
+        { "name": "HR Letter", "required": true },
+        { "name": "Family Tazkiras", "required": true },
+        { "name": "Marriage Certificate", "required": true }
+      ]
      }
   ],
 
