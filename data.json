@@ -39,8 +39,9 @@
         { "name": "HR Letter", "required": true },
         { "name": "Recommendation", "required": true },
         { "name": "Parent Tazkiras", "required": true },
-        { "name": "US Address", "required": true },
-        { "name": "Marriage Certificate", "required": true }
+        { "name": "USA Contact Information", "required": true },
+        { "name": "Marriage Certificate", "required": true },
+        { "name": "Educational Documents", "required": true }
       ]
      },
      {
@@ -53,8 +54,9 @@
         { "name": "Passport", "required": true },
         { "name": "National Identity Card", "required": true },
         { "name": "HR Letter", "required": true },
+        { "name": "Recommendation Letter", "required": true },
         { "name": "Family Tazkiras", "required": true },
-        { "name": "Marriage Certificate", "required": true }
+        { "name": "Marriage Certificate", "required": true },
       ]
      }
   ],
