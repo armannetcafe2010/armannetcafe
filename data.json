@@ -26,6 +26,22 @@
         { "name": "Medical Reports", "required": true },
         { "name": "Hotel Booking", "required": true }
       ]
+    },
+     {
+      "id": "3",
+      "name": "DS-260",
+      "category": "Immigrant Visa Form",
+      "description": "We assist with the completion and submission of your DS-260 Immigrant Visa Application form. Our service ensures that all required information is accurately entered, reducing the risk of errors or delays in your application process. The DS-260 is a crucial step for individuals applying for a U.S. immigrant visa, and we guide you through each section to make the process simple, secure, and efficient.",
+      "iconUrl": "https://i.ibb.co/Ng9LKhws/pakistan-evisa.png",
+      "requirements": [
+        { "name": "Passport", "required": true },
+        { "name": "National Identity Card", "required": true },
+        { "name": "HR Letter", "required": true }
+        { "name": "Recommendation", "required": true },
+        { "name": "Parent Tazkiras", "required": true }
+        { "name": "US Address", "required": true },
+        { "name": "Marriage Certificate", "required": true }
+      ]
     }
   ],
 
