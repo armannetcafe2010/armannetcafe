@@ -47,8 +47,8 @@
       "id": "4",
       "name": "DS-157",
       "category": "Immigrant Visa Form",
-      "description": "We assist with the completion and submission of your DS-260 Immigrant Visa Application form. Our service ensures that all required information is accurately entered, reducing the risk of errors or delays in your application process. The DS-260 is a crucial step for individuals applying for a U.S. immigrant visa, and we guide you through each section to make the process simple, secure, and efficient.",
-      "iconUrl": "https://i.ibb.co/RFX1tR3/ds260.webp",
+      "description": "We assist with the completion of the DS-157 Supplemental Nonimmigrant Visa Application form. This form is typically required for certain U.S. visa applicants in addition to the DS-160, especially for individuals from specific countries or visa categories. Our service ensures all information is accurately entered to reduce errors, delays, or rejections, and we guide you through each section for a smooth and reliable application process.",
+      "iconUrl": "https://i.ibb.co/4nGNV6bb/ds-157.jpg",
       "requirements": [
         { "name": "Passport", "required": true },
         { "name": "National Identity Card", "required": true },
