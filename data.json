@@ -42,7 +42,7 @@
         { "name": "US Address", "required": true },
         { "name": "Marriage Certificate", "required": true }
       ]
-     },
+     }
 
 
 
